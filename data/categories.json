@@ -1,0 +1,92 @@
+[
+  {
+    "id": "category-1-racetams-and-classical-synthetic-nootropics",
+    "title": "RACETAMS & CLASSICAL SYNTHETIC NOOTROPICS",
+    "displayOrder": 1
+  },
+  {
+    "id": "category-2-cholinergics-acetylcholine-support",
+    "title": "CHOLINERGICS (Acetylcholine Support)",
+    "displayOrder": 2
+  },
+  {
+    "id": "category-3-adaptogens",
+    "title": "ADAPTOGENS",
+    "displayOrder": 3
+  },
+  {
+    "id": "category-4-nootropic-peptides",
+    "title": "NOOTROPIC PEPTIDES",
+    "displayOrder": 4
+  },
+  {
+    "id": "category-5-amino-acids-and-precursors",
+    "title": "AMINO ACIDS & PRECURSORS",
+    "displayOrder": 5
+  },
+  {
+    "id": "category-6-stimulants-and-eugeroics",
+    "title": "STIMULANTS & EUGEROICS",
+    "displayOrder": 6
+  },
+  {
+    "id": "category-7-psychedelic-microdosing-and-neurogenesis",
+    "title": "PSYCHEDELIC MICRODOSING & NEUROGENESIS",
+    "displayOrder": 7
+  },
+  {
+    "id": "category-8-medicinal-mushrooms",
+    "title": "MEDICINAL MUSHROOMS",
+    "displayOrder": 8
+  },
+  {
+    "id": "category-9-vitamins",
+    "title": "VITAMINS",
+    "displayOrder": 9
+  },
+  {
+    "id": "category-10-minerals",
+    "title": "MINERALS",
+    "displayOrder": 10
+  },
+  {
+    "id": "category-11-omega-fatty-acids-and-phospholipids",
+    "title": "OMEGA FATTY ACIDS & PHOSPHOLIPIDS",
+    "displayOrder": 11
+  },
+  {
+    "id": "category-12-antioxidants-and-neuroprotective-compounds",
+    "title": "ANTIOXIDANTS & NEUROPROTECTIVE COMPOUNDS",
+    "displayOrder": 12
+  },
+  {
+    "id": "category-13-mitochondrial-and-cellular-energy-anti-aging",
+    "title": "MITOCHONDRIAL & CELLULAR ENERGY (Anti-Aging)",
+    "displayOrder": 13
+  },
+  {
+    "id": "category-14-gabaergics-and-anxiolytics-calm-focus",
+    "title": "GABAergics & ANXIOLYTICS (Calm Focus)",
+    "displayOrder": 14
+  },
+  {
+    "id": "category-15-hormonal-and-endocrine",
+    "title": "HORMONAL & ENDOCRINE",
+    "displayOrder": 15
+  },
+  {
+    "id": "category-16-gut-brain-axis",
+    "title": "GUT-BRAIN AXIS",
+    "displayOrder": 16
+  },
+  {
+    "id": "category-17-additional-herbal-nootropics",
+    "title": "ADDITIONAL HERBAL NOOTROPICS",
+    "displayOrder": 17
+  },
+  {
+    "id": "category-18-biohacking-technologies-and-lifestyle",
+    "title": "BIOHACKING TECHNOLOGIES & LIFESTYLE",
+    "displayOrder": 18
+  }
+]

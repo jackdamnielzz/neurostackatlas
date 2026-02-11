@@ -1,0 +1,3472 @@
+[
+  {
+    "id": "synergy-1-piracetam-10-cdp-choline-citicoline",
+    "appliesTo": {
+      "entryIds": [
+        "1-piracetam",
+        "10-cdp-choline-citicoline"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Piracetam references CDP-Choline (Citicoline)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-1-piracetam-9-alpha-gpc",
+    "appliesTo": {
+      "entryIds": [
+        "1-piracetam",
+        "9-alpha-gpc"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Piracetam references Alpha-GPC).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-1-piracetam-2-aniracetam",
+    "appliesTo": {
+      "entryIds": [
+        "1-piracetam",
+        "2-aniracetam"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Piracetam references Aniracetam).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-2-aniracetam-9-alpha-gpc",
+    "appliesTo": {
+      "entryIds": [
+        "2-aniracetam",
+        "9-alpha-gpc"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Aniracetam references Alpha-GPC).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-1-piracetam-3-oxiracetam",
+    "appliesTo": {
+      "entryIds": [
+        "1-piracetam",
+        "3-oxiracetam"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Oxiracetam references Piracetam).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-3-oxiracetam-40-caffeine",
+    "appliesTo": {
+      "entryIds": [
+        "3-oxiracetam",
+        "40-caffeine"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Oxiracetam references Caffeine).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-31-l-theanine-4-phenylpiracetam-fonturacetam",
+    "appliesTo": {
+      "entryIds": [
+        "31-l-theanine",
+        "4-phenylpiracetam-fonturacetam"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Phenylpiracetam (Fonturacetam) references L-Theanine).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-5-pramiracetam-9-alpha-gpc",
+    "appliesTo": {
+      "entryIds": [
+        "5-pramiracetam",
+        "9-alpha-gpc"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Pramiracetam references Alpha-GPC).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-3-oxiracetam-5-pramiracetam",
+    "appliesTo": {
+      "entryIds": [
+        "3-oxiracetam",
+        "5-pramiracetam"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Pramiracetam references Oxiracetam).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-1-piracetam-6-noopept-omberacetam",
+    "appliesTo": {
+      "entryIds": [
+        "1-piracetam",
+        "6-noopept-omberacetam"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Noopept (Omberacetam) references Piracetam).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-10-cdp-choline-citicoline-6-noopept-omberacetam",
+    "appliesTo": {
+      "entryIds": [
+        "10-cdp-choline-citicoline",
+        "6-noopept-omberacetam"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Noopept (Omberacetam) references CDP-Choline (Citicoline)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-7-coluracetam-9-alpha-gpc",
+    "appliesTo": {
+      "entryIds": [
+        "7-coluracetam",
+        "9-alpha-gpc"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Coluracetam references Alpha-GPC).",
+    "severity": "low",
+    "evidence": "limited"
+  },
+  {
+    "id": "synergy-2-aniracetam-7-coluracetam",
+    "appliesTo": {
+      "entryIds": [
+        "2-aniracetam",
+        "7-coluracetam"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Coluracetam references Aniracetam).",
+    "severity": "low",
+    "evidence": "limited"
+  },
+  {
+    "id": "synergy-8-fasoracetam-86-phenibut",
+    "appliesTo": {
+      "entryIds": [
+        "8-fasoracetam",
+        "86-phenibut"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Fasoracetam references Phenibut).",
+    "severity": "low",
+    "evidence": "limited"
+  },
+  {
+    "id": "synergy-13-huperzine-a-9-alpha-gpc",
+    "appliesTo": {
+      "entryIds": [
+        "13-huperzine-a",
+        "9-alpha-gpc"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Alpha-GPC references Huperzine A).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-10-cdp-choline-citicoline-11-choline-bitartrate",
+    "appliesTo": {
+      "entryIds": [
+        "10-cdp-choline-citicoline",
+        "11-choline-bitartrate"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Choline Bitartrate references CDP-Choline (Citicoline)).",
+    "severity": "low",
+    "evidence": "limited"
+  },
+  {
+    "id": "synergy-12-dmae-dimethylaminoethanol-15-centrophenoxine-meclofenoxate",
+    "appliesTo": {
+      "entryIds": [
+        "12-dmae-dimethylaminoethanol",
+        "15-centrophenoxine-meclofenoxate"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (DMAE (Dimethylaminoethanol) references Centrophenoxine (Meclofenoxate)).",
+    "severity": "low",
+    "evidence": "limited"
+  },
+  {
+    "id": "synergy-13-huperzine-a-50-lion-s-mane-hericium-erinaceus",
+    "appliesTo": {
+      "entryIds": [
+        "13-huperzine-a",
+        "50-lion-s-mane-hericium-erinaceus"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Huperzine A references Lion's Mane (Hericium erinaceus)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-14-phosphatidylcholine-69-omega-3-dha-epa",
+    "appliesTo": {
+      "entryIds": [
+        "14-phosphatidylcholine",
+        "69-omega-3-dha-epa"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Phosphatidylcholine references Omega-3 (DHA + EPA)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-10-cdp-choline-citicoline-14-phosphatidylcholine",
+    "appliesTo": {
+      "entryIds": [
+        "10-cdp-choline-citicoline",
+        "14-phosphatidylcholine"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Phosphatidylcholine references CDP-Choline (Citicoline)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-15-centrophenoxine-meclofenoxate-81-coq10-ubiquinol",
+    "appliesTo": {
+      "entryIds": [
+        "15-centrophenoxine-meclofenoxate",
+        "81-coq10-ubiquinol"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Centrophenoxine (Meclofenoxate) references CoQ10 (Ubiquinol)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-16-ashwagandha-ksm-66-or-sensoril-31-l-theanine",
+    "appliesTo": {
+      "entryIds": [
+        "16-ashwagandha-ksm-66-or-sensoril",
+        "31-l-theanine"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Ashwagandha (KSM-66 or Sensoril) references L-Theanine).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-16-ashwagandha-ksm-66-or-sensoril-63-magnesium-l-threonate-magtein",
+    "appliesTo": {
+      "entryIds": [
+        "16-ashwagandha-ksm-66-or-sensoril",
+        "63-magnesium-l-threonate-magtein"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Ashwagandha (KSM-66 or Sensoril) references Magnesium L-Threonate (Magtein®)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-16-ashwagandha-ksm-66-or-sensoril-18-bacopa-monnieri",
+    "appliesTo": {
+      "entryIds": [
+        "16-ashwagandha-ksm-66-or-sensoril",
+        "18-bacopa-monnieri"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Ashwagandha (KSM-66 or Sensoril) references Bacopa Monnieri).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-17-rhodiola-rosea-31-l-theanine",
+    "appliesTo": {
+      "entryIds": [
+        "17-rhodiola-rosea",
+        "31-l-theanine"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Rhodiola Rosea references L-Theanine).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-17-rhodiola-rosea-40-caffeine",
+    "appliesTo": {
+      "entryIds": [
+        "17-rhodiola-rosea",
+        "40-caffeine"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Rhodiola Rosea references Caffeine).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-16-ashwagandha-ksm-66-or-sensoril-17-rhodiola-rosea",
+    "appliesTo": {
+      "entryIds": [
+        "16-ashwagandha-ksm-66-or-sensoril",
+        "17-rhodiola-rosea"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Rhodiola Rosea references Ashwagandha (KSM-66 or Sensoril)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-17-rhodiola-rosea-51-cordyceps-militaris-sinensis",
+    "appliesTo": {
+      "entryIds": [
+        "17-rhodiola-rosea",
+        "51-cordyceps-militaris-sinensis"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Rhodiola Rosea references Cordyceps (militaris/sinensis)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-18-bacopa-monnieri-50-lion-s-mane-hericium-erinaceus",
+    "appliesTo": {
+      "entryIds": [
+        "18-bacopa-monnieri",
+        "50-lion-s-mane-hericium-erinaceus"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Bacopa Monnieri references Lion's Mane (Hericium erinaceus)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-19-panax-ginseng-97-ginkgo-biloba",
+    "appliesTo": {
+      "entryIds": [
+        "19-panax-ginseng",
+        "97-ginkgo-biloba"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Panax Ginseng references Ginkgo Biloba).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-17-rhodiola-rosea-19-panax-ginseng",
+    "appliesTo": {
+      "entryIds": [
+        "17-rhodiola-rosea",
+        "19-panax-ginseng"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Panax Ginseng references Rhodiola Rosea).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-16-ashwagandha-ksm-66-or-sensoril-20-holy-basil-tulsi",
+    "appliesTo": {
+      "entryIds": [
+        "16-ashwagandha-ksm-66-or-sensoril",
+        "20-holy-basil-tulsi"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Holy Basil (Tulsi) references Ashwagandha (KSM-66 or Sensoril)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-20-holy-basil-tulsi-88-lemon-balm-melissa-officinalis",
+    "appliesTo": {
+      "entryIds": [
+        "20-holy-basil-tulsi",
+        "88-lemon-balm-melissa-officinalis"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Holy Basil (Tulsi) references Lemon Balm (Melissa officinalis)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-17-rhodiola-rosea-20-holy-basil-tulsi",
+    "appliesTo": {
+      "entryIds": [
+        "17-rhodiola-rosea",
+        "20-holy-basil-tulsi"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Holy Basil (Tulsi) references Rhodiola Rosea).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-18-bacopa-monnieri-20-holy-basil-tulsi",
+    "appliesTo": {
+      "entryIds": [
+        "18-bacopa-monnieri",
+        "20-holy-basil-tulsi"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Holy Basil (Tulsi) references Bacopa Monnieri).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-16-ashwagandha-ksm-66-or-sensoril-21-schisandra-berry",
+    "appliesTo": {
+      "entryIds": [
+        "16-ashwagandha-ksm-66-or-sensoril",
+        "21-schisandra-berry"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Schisandra Berry references Ashwagandha (KSM-66 or Sensoril)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-21-schisandra-berry-51-cordyceps-militaris-sinensis",
+    "appliesTo": {
+      "entryIds": [
+        "21-schisandra-berry",
+        "51-cordyceps-militaris-sinensis"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Schisandra Berry references Cordyceps (militaris/sinensis)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-16-ashwagandha-ksm-66-or-sensoril-22-maca-root",
+    "appliesTo": {
+      "entryIds": [
+        "16-ashwagandha-ksm-66-or-sensoril",
+        "22-maca-root"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Maca Root references Ashwagandha (KSM-66 or Sensoril)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-22-maca-root-59-vitamin-d3-cholecalciferol",
+    "appliesTo": {
+      "entryIds": [
+        "22-maca-root",
+        "59-vitamin-d3-cholecalciferol"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Maca Root references Vitamin D3 (Cholecalciferol)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-22-maca-root-65-zinc-picolinate-or-carnosine",
+    "appliesTo": {
+      "entryIds": [
+        "22-maca-root",
+        "65-zinc-picolinate-or-carnosine"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Maca Root references Zinc (Picolinate or Carnosine)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-22-maca-root-51-cordyceps-militaris-sinensis",
+    "appliesTo": {
+      "entryIds": [
+        "22-maca-root",
+        "51-cordyceps-militaris-sinensis"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Maca Root references Cordyceps (militaris/sinensis)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-23-saffron-crocus-sativus-73-curcumin",
+    "appliesTo": {
+      "entryIds": [
+        "23-saffron-crocus-sativus",
+        "73-curcumin"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Saffron (Crocus sativus) references Curcumin).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-23-saffron-crocus-sativus-69-omega-3-dha-epa",
+    "appliesTo": {
+      "entryIds": [
+        "23-saffron-crocus-sativus",
+        "69-omega-3-dha-epa"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Saffron (Crocus sativus) references Omega-3 (DHA + EPA)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-18-bacopa-monnieri-23-saffron-crocus-sativus",
+    "appliesTo": {
+      "entryIds": [
+        "18-bacopa-monnieri",
+        "23-saffron-crocus-sativus"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Saffron (Crocus sativus) references Bacopa Monnieri).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-103-red-nir-light-therapy-photobiomodulation-23-saffron-crocus-sativus",
+    "appliesTo": {
+      "entryIds": [
+        "103-red-nir-light-therapy-photobiomodulation",
+        "23-saffron-crocus-sativus"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Saffron (Crocus sativus) references Red/NIR Light Therapy (Photobiomodulation)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-24-semax-25-selank",
+    "appliesTo": {
+      "entryIds": [
+        "24-semax",
+        "25-selank"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Semax references Selank).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-24-semax-26-cerebrolysin",
+    "appliesTo": {
+      "entryIds": [
+        "24-semax",
+        "26-cerebrolysin"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Semax references Cerebrolysin).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-24-semax-50-lion-s-mane-hericium-erinaceus",
+    "appliesTo": {
+      "entryIds": [
+        "24-semax",
+        "50-lion-s-mane-hericium-erinaceus"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Semax references Lion's Mane (Hericium erinaceus)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-24-semax-9-alpha-gpc",
+    "appliesTo": {
+      "entryIds": [
+        "24-semax",
+        "9-alpha-gpc"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Semax references Alpha-GPC).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-25-selank-30-p21-cerebrolysin-derived",
+    "appliesTo": {
+      "entryIds": [
+        "25-selank",
+        "30-p21-cerebrolysin-derived"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Selank references P21 (Cerebrolysin-derived)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-16-ashwagandha-ksm-66-or-sensoril-25-selank",
+    "appliesTo": {
+      "entryIds": [
+        "16-ashwagandha-ksm-66-or-sensoril",
+        "25-selank"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Selank references Ashwagandha (KSM-66 or Sensoril)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-25-selank-63-magnesium-l-threonate-magtein",
+    "appliesTo": {
+      "entryIds": [
+        "25-selank",
+        "63-magnesium-l-threonate-magtein"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Selank references Magnesium L-Threonate (Magtein®)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-25-selank-26-cerebrolysin",
+    "appliesTo": {
+      "entryIds": [
+        "25-selank",
+        "26-cerebrolysin"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Cerebrolysin references Selank).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-26-cerebrolysin-30-p21-cerebrolysin-derived",
+    "appliesTo": {
+      "entryIds": [
+        "26-cerebrolysin",
+        "30-p21-cerebrolysin-derived"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Cerebrolysin references P21 (Cerebrolysin-derived)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-26-cerebrolysin-79-nmn-nicotinamide-mononucleotide",
+    "appliesTo": {
+      "entryIds": [
+        "26-cerebrolysin",
+        "79-nmn-nicotinamide-mononucleotide"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Cerebrolysin references NMN (Nicotinamide Mononucleotide)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-25-selank-27-bpc-157",
+    "appliesTo": {
+      "entryIds": [
+        "25-selank",
+        "27-bpc-157"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (BPC-157 references Selank).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-27-bpc-157-30-p21-cerebrolysin-derived",
+    "appliesTo": {
+      "entryIds": [
+        "27-bpc-157",
+        "30-p21-cerebrolysin-derived"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (BPC-157 references P21 (Cerebrolysin-derived)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-28-dihexa-50-lion-s-mane-hericium-erinaceus",
+    "appliesTo": {
+      "entryIds": [
+        "28-dihexa",
+        "50-lion-s-mane-hericium-erinaceus"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Dihexa references Lion's Mane (Hericium erinaceus)).",
+    "severity": "low",
+    "evidence": "limited"
+  },
+  {
+    "id": "synergy-28-dihexa-30-p21-cerebrolysin-derived",
+    "appliesTo": {
+      "entryIds": [
+        "28-dihexa",
+        "30-p21-cerebrolysin-derived"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Dihexa references P21 (Cerebrolysin-derived)).",
+    "severity": "low",
+    "evidence": "limited"
+  },
+  {
+    "id": "synergy-24-semax-28-dihexa",
+    "appliesTo": {
+      "entryIds": [
+        "24-semax",
+        "28-dihexa"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Dihexa references Semax).",
+    "severity": "low",
+    "evidence": "limited"
+  },
+  {
+    "id": "synergy-28-dihexa-29-nsi-189",
+    "appliesTo": {
+      "entryIds": [
+        "28-dihexa",
+        "29-nsi-189"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Dihexa references NSI-189).",
+    "severity": "low",
+    "evidence": "limited"
+  },
+  {
+    "id": "synergy-29-nsi-189-30-p21-cerebrolysin-derived",
+    "appliesTo": {
+      "entryIds": [
+        "29-nsi-189",
+        "30-p21-cerebrolysin-derived"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (NSI-189 references P21 (Cerebrolysin-derived)).",
+    "severity": "low",
+    "evidence": "limited"
+  },
+  {
+    "id": "synergy-29-nsi-189-50-lion-s-mane-hericium-erinaceus",
+    "appliesTo": {
+      "entryIds": [
+        "29-nsi-189",
+        "50-lion-s-mane-hericium-erinaceus"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (NSI-189 references Lion's Mane (Hericium erinaceus)).",
+    "severity": "low",
+    "evidence": "limited"
+  },
+  {
+    "id": "synergy-18-bacopa-monnieri-29-nsi-189",
+    "appliesTo": {
+      "entryIds": [
+        "18-bacopa-monnieri",
+        "29-nsi-189"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (NSI-189 references Bacopa Monnieri).",
+    "severity": "low",
+    "evidence": "limited"
+  },
+  {
+    "id": "synergy-24-semax-30-p21-cerebrolysin-derived",
+    "appliesTo": {
+      "entryIds": [
+        "24-semax",
+        "30-p21-cerebrolysin-derived"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (P21 (Cerebrolysin-derived) references Semax).",
+    "severity": "low",
+    "evidence": "limited"
+  },
+  {
+    "id": "synergy-30-p21-cerebrolysin-derived-50-lion-s-mane-hericium-erinaceus",
+    "appliesTo": {
+      "entryIds": [
+        "30-p21-cerebrolysin-derived",
+        "50-lion-s-mane-hericium-erinaceus"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (P21 (Cerebrolysin-derived) references Lion's Mane (Hericium erinaceus)).",
+    "severity": "low",
+    "evidence": "limited"
+  },
+  {
+    "id": "synergy-31-l-theanine-40-caffeine",
+    "appliesTo": {
+      "entryIds": [
+        "31-l-theanine",
+        "40-caffeine"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (L-Theanine references Caffeine).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-31-l-theanine-63-magnesium-l-threonate-magtein",
+    "appliesTo": {
+      "entryIds": [
+        "31-l-theanine",
+        "63-magnesium-l-threonate-magtein"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (L-Theanine references Magnesium L-Threonate (Magtein®)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-32-l-tyrosine-nalt-40-caffeine",
+    "appliesTo": {
+      "entryIds": [
+        "32-l-tyrosine-nalt",
+        "40-caffeine"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (L-Tyrosine / NALT references Caffeine).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-32-l-tyrosine-nalt-4-phenylpiracetam-fonturacetam",
+    "appliesTo": {
+      "entryIds": [
+        "32-l-tyrosine-nalt",
+        "4-phenylpiracetam-fonturacetam"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (L-Tyrosine / NALT references Phenylpiracetam (Fonturacetam)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-32-l-tyrosine-nalt-61-vitamin-c-ascorbic-acid-liposomal",
+    "appliesTo": {
+      "entryIds": [
+        "32-l-tyrosine-nalt",
+        "61-vitamin-c-ascorbic-acid-liposomal"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (L-Tyrosine / NALT references Vitamin C (Ascorbic Acid / Liposomal)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-33-acetyl-l-carnitine-alcar-9-alpha-gpc",
+    "appliesTo": {
+      "entryIds": [
+        "33-acetyl-l-carnitine-alcar",
+        "9-alpha-gpc"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Acetyl-L-Carnitine (ALCAR) references Alpha-GPC).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-33-acetyl-l-carnitine-alcar-81-coq10-ubiquinol",
+    "appliesTo": {
+      "entryIds": [
+        "33-acetyl-l-carnitine-alcar",
+        "81-coq10-ubiquinol"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Acetyl-L-Carnitine (ALCAR) references CoQ10 (Ubiquinol)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-33-acetyl-l-carnitine-alcar-74-alpha-lipoic-acid-r-ala",
+    "appliesTo": {
+      "entryIds": [
+        "33-acetyl-l-carnitine-alcar",
+        "74-alpha-lipoic-acid-r-ala"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Acetyl-L-Carnitine (ALCAR) references Alpha-Lipoic Acid (R-ALA)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-33-acetyl-l-carnitine-alcar-82-pqq-pyrroloquinoline-quinone",
+    "appliesTo": {
+      "entryIds": [
+        "33-acetyl-l-carnitine-alcar",
+        "82-pqq-pyrroloquinoline-quinone"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Acetyl-L-Carnitine (ALCAR) references PQQ (Pyrroloquinoline Quinone)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-34-creatine-monohydrate-40-caffeine",
+    "appliesTo": {
+      "entryIds": [
+        "34-creatine-monohydrate",
+        "40-caffeine"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Creatine Monohydrate references Caffeine).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-34-creatine-monohydrate-81-coq10-ubiquinol",
+    "appliesTo": {
+      "entryIds": [
+        "34-creatine-monohydrate",
+        "81-coq10-ubiquinol"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Creatine Monohydrate references CoQ10 (Ubiquinol)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-106-aerobic-exercise-34-creatine-monohydrate",
+    "appliesTo": {
+      "entryIds": [
+        "106-aerobic-exercise",
+        "34-creatine-monohydrate"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Creatine Monohydrate references Aerobic Exercise).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-31-l-theanine-35-taurine",
+    "appliesTo": {
+      "entryIds": [
+        "31-l-theanine",
+        "35-taurine"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Taurine references L-Theanine).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-35-taurine-65-zinc-picolinate-or-carnosine",
+    "appliesTo": {
+      "entryIds": [
+        "35-taurine",
+        "65-zinc-picolinate-or-carnosine"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Taurine references Zinc (Picolinate or Carnosine)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-36-n-acetyl-cysteine-nac-61-vitamin-c-ascorbic-acid-liposomal",
+    "appliesTo": {
+      "entryIds": [
+        "36-n-acetyl-cysteine-nac",
+        "61-vitamin-c-ascorbic-acid-liposomal"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (N-Acetyl Cysteine (NAC) references Vitamin C (Ascorbic Acid / Liposomal)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-36-n-acetyl-cysteine-nac-67-selenium-selenomethionine",
+    "appliesTo": {
+      "entryIds": [
+        "36-n-acetyl-cysteine-nac",
+        "67-selenium-selenomethionine"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (N-Acetyl Cysteine (NAC) references Selenium (Selenomethionine)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-36-n-acetyl-cysteine-nac-74-alpha-lipoic-acid-r-ala",
+    "appliesTo": {
+      "entryIds": [
+        "36-n-acetyl-cysteine-nac",
+        "74-alpha-lipoic-acid-r-ala"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (N-Acetyl Cysteine (NAC) references Alpha-Lipoic Acid (R-ALA)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-31-l-theanine-37-glycine",
+    "appliesTo": {
+      "entryIds": [
+        "31-l-theanine",
+        "37-glycine"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Glycine references L-Theanine).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-37-glycine-50-lion-s-mane-hericium-erinaceus",
+    "appliesTo": {
+      "entryIds": [
+        "37-glycine",
+        "50-lion-s-mane-hericium-erinaceus"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Glycine references Lion's Mane (Hericium erinaceus)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-38-5-htp-5-hydroxytryptophan-56-vitamin-b6-p-5-p",
+    "appliesTo": {
+      "entryIds": [
+        "38-5-htp-5-hydroxytryptophan",
+        "56-vitamin-b6-p-5-p"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (5-HTP (5-Hydroxytryptophan) references Vitamin B6 (P-5-P)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-38-5-htp-5-hydroxytryptophan-63-magnesium-l-threonate-magtein",
+    "appliesTo": {
+      "entryIds": [
+        "38-5-htp-5-hydroxytryptophan",
+        "63-magnesium-l-threonate-magtein"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (5-HTP (5-Hydroxytryptophan) references Magnesium L-Threonate (Magtein®)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-39-dl-phenylalanine-dlpa-56-vitamin-b6-p-5-p",
+    "appliesTo": {
+      "entryIds": [
+        "39-dl-phenylalanine-dlpa",
+        "56-vitamin-b6-p-5-p"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (DL-Phenylalanine (DLPA) references Vitamin B6 (P-5-P)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-39-dl-phenylalanine-dlpa-61-vitamin-c-ascorbic-acid-liposomal",
+    "appliesTo": {
+      "entryIds": [
+        "39-dl-phenylalanine-dlpa",
+        "61-vitamin-c-ascorbic-acid-liposomal"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (DL-Phenylalanine (DLPA) references Vitamin C (Ascorbic Acid / Liposomal)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-31-l-theanine-39-dl-phenylalanine-dlpa",
+    "appliesTo": {
+      "entryIds": [
+        "31-l-theanine",
+        "39-dl-phenylalanine-dlpa"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (DL-Phenylalanine (DLPA) references L-Theanine).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-31-l-theanine-41-modafinil",
+    "appliesTo": {
+      "entryIds": [
+        "31-l-theanine",
+        "41-modafinil"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Modafinil references L-Theanine).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-41-modafinil-42-armodafinil",
+    "appliesTo": {
+      "entryIds": [
+        "41-modafinil",
+        "42-armodafinil"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Armodafinil references Modafinil).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-41-modafinil-43-adrafinil",
+    "appliesTo": {
+      "entryIds": [
+        "41-modafinil",
+        "43-adrafinil"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Adrafinil references Modafinil).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-36-n-acetyl-cysteine-nac-43-adrafinil",
+    "appliesTo": {
+      "entryIds": [
+        "36-n-acetyl-cysteine-nac",
+        "43-adrafinil"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Adrafinil references N-Acetyl Cysteine (NAC)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-40-caffeine-44-theacrine-teacrine",
+    "appliesTo": {
+      "entryIds": [
+        "40-caffeine",
+        "44-theacrine-teacrine"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Theacrine (TeaCrine®) references Caffeine).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-44-theacrine-teacrine-45-dynamine-methylliberine",
+    "appliesTo": {
+      "entryIds": [
+        "44-theacrine-teacrine",
+        "45-dynamine-methylliberine"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Theacrine (TeaCrine®) references Dynamine™ (Methylliberine)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-31-l-theanine-44-theacrine-teacrine",
+    "appliesTo": {
+      "entryIds": [
+        "31-l-theanine",
+        "44-theacrine-teacrine"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Theacrine (TeaCrine®) references L-Theanine).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-40-caffeine-45-dynamine-methylliberine",
+    "appliesTo": {
+      "entryIds": [
+        "40-caffeine",
+        "45-dynamine-methylliberine"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Dynamine™ (Methylliberine) references Caffeine).",
+    "severity": "low",
+    "evidence": "limited"
+  },
+  {
+    "id": "synergy-31-l-theanine-45-dynamine-methylliberine",
+    "appliesTo": {
+      "entryIds": [
+        "31-l-theanine",
+        "45-dynamine-methylliberine"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Dynamine™ (Methylliberine) references L-Theanine).",
+    "severity": "low",
+    "evidence": "limited"
+  },
+  {
+    "id": "synergy-46-psilocybin-microdose-47-stamets-stack",
+    "appliesTo": {
+      "entryIds": [
+        "46-psilocybin-microdose",
+        "47-stamets-stack"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Psilocybin (Microdose) references Stamets Stack).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-46-psilocybin-microdose-50-lion-s-mane-hericium-erinaceus",
+    "appliesTo": {
+      "entryIds": [
+        "46-psilocybin-microdose",
+        "50-lion-s-mane-hericium-erinaceus"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Psilocybin (Microdose) references Lion's Mane (Hericium erinaceus)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-31-l-theanine-46-psilocybin-microdose",
+    "appliesTo": {
+      "entryIds": [
+        "31-l-theanine",
+        "46-psilocybin-microdose"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Psilocybin (Microdose) references L-Theanine).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-106-aerobic-exercise-47-stamets-stack",
+    "appliesTo": {
+      "entryIds": [
+        "106-aerobic-exercise",
+        "47-stamets-stack"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Stamets Stack references Aerobic Exercise).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-101-cold-exposure-47-stamets-stack",
+    "appliesTo": {
+      "entryIds": [
+        "101-cold-exposure",
+        "47-stamets-stack"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Stamets Stack references Cold Exposure).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-47-stamets-stack-69-omega-3-dha-epa",
+    "appliesTo": {
+      "entryIds": [
+        "47-stamets-stack",
+        "69-omega-3-dha-epa"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Stamets Stack references Omega-3 (DHA + EPA)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-31-l-theanine-48-lsd-microdose",
+    "appliesTo": {
+      "entryIds": [
+        "31-l-theanine",
+        "48-lsd-microdose"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (LSD (Microdose) references L-Theanine).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-48-lsd-microdose-63-magnesium-l-threonate-magtein",
+    "appliesTo": {
+      "entryIds": [
+        "48-lsd-microdose",
+        "63-magnesium-l-threonate-magtein"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (LSD (Microdose) references Magnesium L-Threonate (Magtein®)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-48-lsd-microdose-50-lion-s-mane-hericium-erinaceus",
+    "appliesTo": {
+      "entryIds": [
+        "48-lsd-microdose",
+        "50-lion-s-mane-hericium-erinaceus"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (LSD (Microdose) references Lion's Mane (Hericium erinaceus)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-49-ketamine-sub-anesthetic-50-lion-s-mane-hericium-erinaceus",
+    "appliesTo": {
+      "entryIds": [
+        "49-ketamine-sub-anesthetic",
+        "50-lion-s-mane-hericium-erinaceus"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Ketamine (Sub-anesthetic) references Lion's Mane (Hericium erinaceus)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-49-ketamine-sub-anesthetic-63-magnesium-l-threonate-magtein",
+    "appliesTo": {
+      "entryIds": [
+        "49-ketamine-sub-anesthetic",
+        "63-magnesium-l-threonate-magtein"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Ketamine (Sub-anesthetic) references Magnesium L-Threonate (Magtein®)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-47-stamets-stack-50-lion-s-mane-hericium-erinaceus",
+    "appliesTo": {
+      "entryIds": [
+        "47-stamets-stack",
+        "50-lion-s-mane-hericium-erinaceus"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Lion's Mane (Hericium erinaceus) references Stamets Stack).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-50-lion-s-mane-hericium-erinaceus-9-alpha-gpc",
+    "appliesTo": {
+      "entryIds": [
+        "50-lion-s-mane-hericium-erinaceus",
+        "9-alpha-gpc"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Lion's Mane (Hericium erinaceus) references Alpha-GPC).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-51-cordyceps-militaris-sinensis-81-coq10-ubiquinol",
+    "appliesTo": {
+      "entryIds": [
+        "51-cordyceps-militaris-sinensis",
+        "81-coq10-ubiquinol"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Cordyceps (militaris/sinensis) references CoQ10 (Ubiquinol)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-51-cordyceps-militaris-sinensis-82-pqq-pyrroloquinoline-quinone",
+    "appliesTo": {
+      "entryIds": [
+        "51-cordyceps-militaris-sinensis",
+        "82-pqq-pyrroloquinoline-quinone"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Cordyceps (militaris/sinensis) references PQQ (Pyrroloquinoline Quinone)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-33-acetyl-l-carnitine-alcar-51-cordyceps-militaris-sinensis",
+    "appliesTo": {
+      "entryIds": [
+        "33-acetyl-l-carnitine-alcar",
+        "51-cordyceps-militaris-sinensis"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Cordyceps (militaris/sinensis) references Acetyl-L-Carnitine (ALCAR)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-106-aerobic-exercise-51-cordyceps-militaris-sinensis",
+    "appliesTo": {
+      "entryIds": [
+        "106-aerobic-exercise",
+        "51-cordyceps-militaris-sinensis"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Cordyceps (militaris/sinensis) references Aerobic Exercise).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-16-ashwagandha-ksm-66-or-sensoril-52-reishi-ganoderma-lucidum",
+    "appliesTo": {
+      "entryIds": [
+        "16-ashwagandha-ksm-66-or-sensoril",
+        "52-reishi-ganoderma-lucidum"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Reishi (Ganoderma lucidum) references Ashwagandha (KSM-66 or Sensoril)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-52-reishi-ganoderma-lucidum-64-magnesium-glycinate",
+    "appliesTo": {
+      "entryIds": [
+        "52-reishi-ganoderma-lucidum",
+        "64-magnesium-glycinate"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Reishi (Ganoderma lucidum) references Magnesium Glycinate).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-50-lion-s-mane-hericium-erinaceus-52-reishi-ganoderma-lucidum",
+    "appliesTo": {
+      "entryIds": [
+        "50-lion-s-mane-hericium-erinaceus",
+        "52-reishi-ganoderma-lucidum"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Reishi (Ganoderma lucidum) references Lion's Mane (Hericium erinaceus)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-52-reishi-ganoderma-lucidum-88-lemon-balm-melissa-officinalis",
+    "appliesTo": {
+      "entryIds": [
+        "52-reishi-ganoderma-lucidum",
+        "88-lemon-balm-melissa-officinalis"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Reishi (Ganoderma lucidum) references Lemon Balm (Melissa officinalis)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-50-lion-s-mane-hericium-erinaceus-53-chaga-inonotus-obliquus",
+    "appliesTo": {
+      "entryIds": [
+        "50-lion-s-mane-hericium-erinaceus",
+        "53-chaga-inonotus-obliquus"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Chaga (Inonotus obliquus) references Lion's Mane (Hericium erinaceus)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-52-reishi-ganoderma-lucidum-53-chaga-inonotus-obliquus",
+    "appliesTo": {
+      "entryIds": [
+        "52-reishi-ganoderma-lucidum",
+        "53-chaga-inonotus-obliquus"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Chaga (Inonotus obliquus) references Reishi (Ganoderma lucidum)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-53-chaga-inonotus-obliquus-73-curcumin",
+    "appliesTo": {
+      "entryIds": [
+        "53-chaga-inonotus-obliquus",
+        "73-curcumin"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Chaga (Inonotus obliquus) references Curcumin).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-53-chaga-inonotus-obliquus-61-vitamin-c-ascorbic-acid-liposomal",
+    "appliesTo": {
+      "entryIds": [
+        "53-chaga-inonotus-obliquus",
+        "61-vitamin-c-ascorbic-acid-liposomal"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Chaga (Inonotus obliquus) references Vitamin C (Ascorbic Acid / Liposomal)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-54-turkey-tail-trametes-versicolor-96-prebiotics-gos-fos-inulin-resistant-starch",
+    "appliesTo": {
+      "entryIds": [
+        "54-turkey-tail-trametes-versicolor",
+        "96-prebiotics-gos-fos-inulin-resistant-starch"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Turkey Tail (Trametes versicolor) references Prebiotics (GOS, FOS, Inulin, Resistant Starch)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-52-reishi-ganoderma-lucidum-54-turkey-tail-trametes-versicolor",
+    "appliesTo": {
+      "entryIds": [
+        "52-reishi-ganoderma-lucidum",
+        "54-turkey-tail-trametes-versicolor"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Turkey Tail (Trametes versicolor) references Reishi (Ganoderma lucidum)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-50-lion-s-mane-hericium-erinaceus-54-turkey-tail-trametes-versicolor",
+    "appliesTo": {
+      "entryIds": [
+        "50-lion-s-mane-hericium-erinaceus",
+        "54-turkey-tail-trametes-versicolor"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Turkey Tail (Trametes versicolor) references Lion's Mane (Hericium erinaceus)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-53-chaga-inonotus-obliquus-54-turkey-tail-trametes-versicolor",
+    "appliesTo": {
+      "entryIds": [
+        "53-chaga-inonotus-obliquus",
+        "54-turkey-tail-trametes-versicolor"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Turkey Tail (Trametes versicolor) references Chaga (Inonotus obliquus)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-55-vitamin-b1-benfotiamine-74-alpha-lipoic-acid-r-ala",
+    "appliesTo": {
+      "entryIds": [
+        "55-vitamin-b1-benfotiamine",
+        "74-alpha-lipoic-acid-r-ala"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Vitamin B1 (Benfotiamine) references Alpha-Lipoic Acid (R-ALA)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-55-vitamin-b1-benfotiamine-63-magnesium-l-threonate-magtein",
+    "appliesTo": {
+      "entryIds": [
+        "55-vitamin-b1-benfotiamine",
+        "63-magnesium-l-threonate-magtein"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Vitamin B1 (Benfotiamine) references Magnesium L-Threonate (Magtein®)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-56-vitamin-b6-p-5-p-65-zinc-picolinate-or-carnosine",
+    "appliesTo": {
+      "entryIds": [
+        "56-vitamin-b6-p-5-p",
+        "65-zinc-picolinate-or-carnosine"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Vitamin B6 (P-5-P) references Zinc (Picolinate or Carnosine)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-56-vitamin-b6-p-5-p-63-magnesium-l-threonate-magtein",
+    "appliesTo": {
+      "entryIds": [
+        "56-vitamin-b6-p-5-p",
+        "63-magnesium-l-threonate-magtein"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Vitamin B6 (P-5-P) references Magnesium L-Threonate (Magtein®)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-56-vitamin-b6-p-5-p-57-vitamin-b9-methylfolate",
+    "appliesTo": {
+      "entryIds": [
+        "56-vitamin-b6-p-5-p",
+        "57-vitamin-b9-methylfolate"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Vitamin B9 (Methylfolate) references Vitamin B6 (P-5-P)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-57-vitamin-b9-methylfolate-65-zinc-picolinate-or-carnosine",
+    "appliesTo": {
+      "entryIds": [
+        "57-vitamin-b9-methylfolate",
+        "65-zinc-picolinate-or-carnosine"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Vitamin B9 (Methylfolate) references Zinc (Picolinate or Carnosine)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-57-vitamin-b9-methylfolate-58-vitamin-b12-methylcobalamin-adenosylcobalamin",
+    "appliesTo": {
+      "entryIds": [
+        "57-vitamin-b9-methylfolate",
+        "58-vitamin-b12-methylcobalamin-adenosylcobalamin"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Vitamin B12 (Methylcobalamin/Adenosylcobalamin) references Vitamin B9 (Methylfolate)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-56-vitamin-b6-p-5-p-58-vitamin-b12-methylcobalamin-adenosylcobalamin",
+    "appliesTo": {
+      "entryIds": [
+        "56-vitamin-b6-p-5-p",
+        "58-vitamin-b12-methylcobalamin-adenosylcobalamin"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Vitamin B12 (Methylcobalamin/Adenosylcobalamin) references Vitamin B6 (P-5-P)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-59-vitamin-d3-cholecalciferol-60-vitamin-k2-mk-7",
+    "appliesTo": {
+      "entryIds": [
+        "59-vitamin-d3-cholecalciferol",
+        "60-vitamin-k2-mk-7"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Vitamin D3 (Cholecalciferol) references Vitamin K2 (MK-7)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-59-vitamin-d3-cholecalciferol-69-omega-3-dha-epa",
+    "appliesTo": {
+      "entryIds": [
+        "59-vitamin-d3-cholecalciferol",
+        "69-omega-3-dha-epa"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Vitamin D3 (Cholecalciferol) references Omega-3 (DHA + EPA)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-59-vitamin-d3-cholecalciferol-68-boron",
+    "appliesTo": {
+      "entryIds": [
+        "59-vitamin-d3-cholecalciferol",
+        "68-boron"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Vitamin D3 (Cholecalciferol) references Boron).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-60-vitamin-k2-mk-7-63-magnesium-l-threonate-magtein",
+    "appliesTo": {
+      "entryIds": [
+        "60-vitamin-k2-mk-7",
+        "63-magnesium-l-threonate-magtein"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Vitamin K2 (MK-7) references Magnesium L-Threonate (Magtein®)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-61-vitamin-c-ascorbic-acid-liposomal-62-vitamin-e-mixed-tocopherols-tocotrienols",
+    "appliesTo": {
+      "entryIds": [
+        "61-vitamin-c-ascorbic-acid-liposomal",
+        "62-vitamin-e-mixed-tocopherols-tocotrienols"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Vitamin C (Ascorbic Acid / Liposomal) references Vitamin E (Mixed Tocopherols + Tocotrienols)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-62-vitamin-e-mixed-tocopherols-tocotrienols-67-selenium-selenomethionine",
+    "appliesTo": {
+      "entryIds": [
+        "62-vitamin-e-mixed-tocopherols-tocotrienols",
+        "67-selenium-selenomethionine"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Vitamin E (Mixed Tocopherols + Tocotrienols) references Selenium (Selenomethionine)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-62-vitamin-e-mixed-tocopherols-tocotrienols-69-omega-3-dha-epa",
+    "appliesTo": {
+      "entryIds": [
+        "62-vitamin-e-mixed-tocopherols-tocotrienols",
+        "69-omega-3-dha-epa"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Vitamin E (Mixed Tocopherols + Tocotrienols) references Omega-3 (DHA + EPA)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-62-vitamin-e-mixed-tocopherols-tocotrienols-81-coq10-ubiquinol",
+    "appliesTo": {
+      "entryIds": [
+        "62-vitamin-e-mixed-tocopherols-tocotrienols",
+        "81-coq10-ubiquinol"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Vitamin E (Mixed Tocopherols + Tocotrienols) references CoQ10 (Ubiquinol)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-59-vitamin-d3-cholecalciferol-63-magnesium-l-threonate-magtein",
+    "appliesTo": {
+      "entryIds": [
+        "59-vitamin-d3-cholecalciferol",
+        "63-magnesium-l-threonate-magtein"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Magnesium L-Threonate (Magtein®) references Vitamin D3 (Cholecalciferol)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-63-magnesium-l-threonate-magtein-65-zinc-picolinate-or-carnosine",
+    "appliesTo": {
+      "entryIds": [
+        "63-magnesium-l-threonate-magtein",
+        "65-zinc-picolinate-or-carnosine"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Magnesium L-Threonate (Magtein®) references Zinc (Picolinate or Carnosine)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-50-lion-s-mane-hericium-erinaceus-63-magnesium-l-threonate-magtein",
+    "appliesTo": {
+      "entryIds": [
+        "50-lion-s-mane-hericium-erinaceus",
+        "63-magnesium-l-threonate-magtein"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Magnesium L-Threonate (Magtein®) references Lion's Mane (Hericium erinaceus)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-59-vitamin-d3-cholecalciferol-64-magnesium-glycinate",
+    "appliesTo": {
+      "entryIds": [
+        "59-vitamin-d3-cholecalciferol",
+        "64-magnesium-glycinate"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Magnesium Glycinate references Vitamin D3 (Cholecalciferol)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-56-vitamin-b6-p-5-p-64-magnesium-glycinate",
+    "appliesTo": {
+      "entryIds": [
+        "56-vitamin-b6-p-5-p",
+        "64-magnesium-glycinate"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Magnesium Glycinate references Vitamin B6 (P-5-P)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-31-l-theanine-64-magnesium-glycinate",
+    "appliesTo": {
+      "entryIds": [
+        "31-l-theanine",
+        "64-magnesium-glycinate"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Magnesium Glycinate references L-Theanine).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-64-magnesium-glycinate-65-zinc-picolinate-or-carnosine",
+    "appliesTo": {
+      "entryIds": [
+        "64-magnesium-glycinate",
+        "65-zinc-picolinate-or-carnosine"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Magnesium Glycinate references Zinc (Picolinate or Carnosine)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-61-vitamin-c-ascorbic-acid-liposomal-65-zinc-picolinate-or-carnosine",
+    "appliesTo": {
+      "entryIds": [
+        "61-vitamin-c-ascorbic-acid-liposomal",
+        "65-zinc-picolinate-or-carnosine"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Zinc (Picolinate or Carnosine) references Vitamin C (Ascorbic Acid / Liposomal)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-59-vitamin-d3-cholecalciferol-65-zinc-picolinate-or-carnosine",
+    "appliesTo": {
+      "entryIds": [
+        "59-vitamin-d3-cholecalciferol",
+        "65-zinc-picolinate-or-carnosine"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Zinc (Picolinate or Carnosine) references Vitamin D3 (Cholecalciferol)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-66-lithium-orotate-microdose-69-omega-3-dha-epa",
+    "appliesTo": {
+      "entryIds": [
+        "66-lithium-orotate-microdose",
+        "69-omega-3-dha-epa"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Lithium Orotate (Microdose) references Omega-3 (DHA + EPA)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-63-magnesium-l-threonate-magtein-66-lithium-orotate-microdose",
+    "appliesTo": {
+      "entryIds": [
+        "63-magnesium-l-threonate-magtein",
+        "66-lithium-orotate-microdose"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Lithium Orotate (Microdose) references Magnesium L-Threonate (Magtein®)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-58-vitamin-b12-methylcobalamin-adenosylcobalamin-66-lithium-orotate-microdose",
+    "appliesTo": {
+      "entryIds": [
+        "58-vitamin-b12-methylcobalamin-adenosylcobalamin",
+        "66-lithium-orotate-microdose"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Lithium Orotate (Microdose) references Vitamin B12 (Methylcobalamin/Adenosylcobalamin)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-50-lion-s-mane-hericium-erinaceus-67-selenium-selenomethionine",
+    "appliesTo": {
+      "entryIds": [
+        "50-lion-s-mane-hericium-erinaceus",
+        "67-selenium-selenomethionine"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Selenium (Selenomethionine) references Lion's Mane (Hericium erinaceus)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-65-zinc-picolinate-or-carnosine-67-selenium-selenomethionine",
+    "appliesTo": {
+      "entryIds": [
+        "65-zinc-picolinate-or-carnosine",
+        "67-selenium-selenomethionine"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Selenium (Selenomethionine) references Zinc (Picolinate or Carnosine)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-63-magnesium-l-threonate-magtein-68-boron",
+    "appliesTo": {
+      "entryIds": [
+        "63-magnesium-l-threonate-magtein",
+        "68-boron"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Boron references Magnesium L-Threonate (Magtein®)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-65-zinc-picolinate-or-carnosine-68-boron",
+    "appliesTo": {
+      "entryIds": [
+        "65-zinc-picolinate-or-carnosine",
+        "68-boron"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Boron references Zinc (Picolinate or Carnosine)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-69-omega-3-dha-epa-70-phosphatidylserine-ps",
+    "appliesTo": {
+      "entryIds": [
+        "69-omega-3-dha-epa",
+        "70-phosphatidylserine-ps"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Omega-3 (DHA + EPA) references Phosphatidylserine (PS)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-10-cdp-choline-citicoline-69-omega-3-dha-epa",
+    "appliesTo": {
+      "entryIds": [
+        "10-cdp-choline-citicoline",
+        "69-omega-3-dha-epa"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Omega-3 (DHA + EPA) references CDP-Choline (Citicoline)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-69-omega-3-dha-epa-73-curcumin",
+    "appliesTo": {
+      "entryIds": [
+        "69-omega-3-dha-epa",
+        "73-curcumin"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Omega-3 (DHA + EPA) references Curcumin).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-59-vitamin-d3-cholecalciferol-71-krill-oil",
+    "appliesTo": {
+      "entryIds": [
+        "59-vitamin-d3-cholecalciferol",
+        "71-krill-oil"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Krill Oil references Vitamin D3 (Cholecalciferol)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-71-krill-oil-73-curcumin",
+    "appliesTo": {
+      "entryIds": [
+        "71-krill-oil",
+        "73-curcumin"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Krill Oil references Curcumin).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-72-resveratrol-77-pterostilbene",
+    "appliesTo": {
+      "entryIds": [
+        "72-resveratrol",
+        "77-pterostilbene"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Resveratrol references Pterostilbene).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-72-resveratrol-79-nmn-nicotinamide-mononucleotide",
+    "appliesTo": {
+      "entryIds": [
+        "72-resveratrol",
+        "79-nmn-nicotinamide-mononucleotide"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Resveratrol references NMN (Nicotinamide Mononucleotide)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-72-resveratrol-78-quercetin",
+    "appliesTo": {
+      "entryIds": [
+        "72-resveratrol",
+        "78-quercetin"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Resveratrol references Quercetin).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-72-resveratrol-73-curcumin",
+    "appliesTo": {
+      "entryIds": [
+        "72-resveratrol",
+        "73-curcumin"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Resveratrol references Curcumin).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-69-omega-3-dha-epa-72-resveratrol",
+    "appliesTo": {
+      "entryIds": [
+        "69-omega-3-dha-epa",
+        "72-resveratrol"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Resveratrol references Omega-3 (DHA + EPA)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-74-alpha-lipoic-acid-r-ala-81-coq10-ubiquinol",
+    "appliesTo": {
+      "entryIds": [
+        "74-alpha-lipoic-acid-r-ala",
+        "81-coq10-ubiquinol"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Alpha-Lipoic Acid (R-ALA) references CoQ10 (Ubiquinol)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-73-curcumin-75-sulforaphane",
+    "appliesTo": {
+      "entryIds": [
+        "73-curcumin",
+        "75-sulforaphane"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Sulforaphane references Curcumin).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-50-lion-s-mane-hericium-erinaceus-75-sulforaphane",
+    "appliesTo": {
+      "entryIds": [
+        "50-lion-s-mane-hericium-erinaceus",
+        "75-sulforaphane"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Sulforaphane references Lion's Mane (Hericium erinaceus)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-69-omega-3-dha-epa-76-astaxanthin",
+    "appliesTo": {
+      "entryIds": [
+        "69-omega-3-dha-epa",
+        "76-astaxanthin"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Astaxanthin references Omega-3 (DHA + EPA)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-76-astaxanthin-81-coq10-ubiquinol",
+    "appliesTo": {
+      "entryIds": [
+        "76-astaxanthin",
+        "81-coq10-ubiquinol"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Astaxanthin references CoQ10 (Ubiquinol)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-62-vitamin-e-mixed-tocopherols-tocotrienols-76-astaxanthin",
+    "appliesTo": {
+      "entryIds": [
+        "62-vitamin-e-mixed-tocopherols-tocotrienols",
+        "76-astaxanthin"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Astaxanthin references Vitamin E (Mixed Tocopherols + Tocotrienols)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-71-krill-oil-76-astaxanthin",
+    "appliesTo": {
+      "entryIds": [
+        "71-krill-oil",
+        "76-astaxanthin"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Astaxanthin references Krill Oil).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-77-pterostilbene-79-nmn-nicotinamide-mononucleotide",
+    "appliesTo": {
+      "entryIds": [
+        "77-pterostilbene",
+        "79-nmn-nicotinamide-mononucleotide"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Pterostilbene references NMN (Nicotinamide Mononucleotide)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-69-omega-3-dha-epa-77-pterostilbene",
+    "appliesTo": {
+      "entryIds": [
+        "69-omega-3-dha-epa",
+        "77-pterostilbene"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Pterostilbene references Omega-3 (DHA + EPA)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-61-vitamin-c-ascorbic-acid-liposomal-78-quercetin",
+    "appliesTo": {
+      "entryIds": [
+        "61-vitamin-c-ascorbic-acid-liposomal",
+        "78-quercetin"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Quercetin references Vitamin C (Ascorbic Acid / Liposomal)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-79-nmn-nicotinamide-mononucleotide-89-apigenin",
+    "appliesTo": {
+      "entryIds": [
+        "79-nmn-nicotinamide-mononucleotide",
+        "89-apigenin"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (NMN (Nicotinamide Mononucleotide) references Apigenin).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-79-nmn-nicotinamide-mononucleotide-81-coq10-ubiquinol",
+    "appliesTo": {
+      "entryIds": [
+        "79-nmn-nicotinamide-mononucleotide",
+        "81-coq10-ubiquinol"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (NMN (Nicotinamide Mononucleotide) references CoQ10 (Ubiquinol)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-79-nmn-nicotinamide-mononucleotide-80-nr-nicotinamide-riboside",
+    "appliesTo": {
+      "entryIds": [
+        "79-nmn-nicotinamide-mononucleotide",
+        "80-nr-nicotinamide-riboside"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (NR (Nicotinamide Riboside) references NMN (Nicotinamide Mononucleotide)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-77-pterostilbene-80-nr-nicotinamide-riboside",
+    "appliesTo": {
+      "entryIds": [
+        "77-pterostilbene",
+        "80-nr-nicotinamide-riboside"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (NR (Nicotinamide Riboside) references Pterostilbene).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-81-coq10-ubiquinol-82-pqq-pyrroloquinoline-quinone",
+    "appliesTo": {
+      "entryIds": [
+        "81-coq10-ubiquinol",
+        "82-pqq-pyrroloquinoline-quinone"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (CoQ10 (Ubiquinol) references PQQ (Pyrroloquinoline Quinone)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-81-coq10-ubiquinol-84-shilajit",
+    "appliesTo": {
+      "entryIds": [
+        "81-coq10-ubiquinol",
+        "84-shilajit"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (CoQ10 (Ubiquinol) references Shilajit).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-69-omega-3-dha-epa-81-coq10-ubiquinol",
+    "appliesTo": {
+      "entryIds": [
+        "69-omega-3-dha-epa",
+        "81-coq10-ubiquinol"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (CoQ10 (Ubiquinol) references Omega-3 (DHA + EPA)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-79-nmn-nicotinamide-mononucleotide-82-pqq-pyrroloquinoline-quinone",
+    "appliesTo": {
+      "entryIds": [
+        "79-nmn-nicotinamide-mononucleotide",
+        "82-pqq-pyrroloquinoline-quinone"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (PQQ (Pyrroloquinoline Quinone) references NMN (Nicotinamide Mononucleotide)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-81-coq10-ubiquinol-83-methylene-blue-usp-grade",
+    "appliesTo": {
+      "entryIds": [
+        "81-coq10-ubiquinol",
+        "83-methylene-blue-usp-grade"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Methylene Blue (USP-grade) references CoQ10 (Ubiquinol)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-79-nmn-nicotinamide-mononucleotide-83-methylene-blue-usp-grade",
+    "appliesTo": {
+      "entryIds": [
+        "79-nmn-nicotinamide-mononucleotide",
+        "83-methylene-blue-usp-grade"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Methylene Blue (USP-grade) references NMN (Nicotinamide Mononucleotide)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-103-red-nir-light-therapy-photobiomodulation-83-methylene-blue-usp-grade",
+    "appliesTo": {
+      "entryIds": [
+        "103-red-nir-light-therapy-photobiomodulation",
+        "83-methylene-blue-usp-grade"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Methylene Blue (USP-grade) references Red/NIR Light Therapy (Photobiomodulation)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-33-acetyl-l-carnitine-alcar-83-methylene-blue-usp-grade",
+    "appliesTo": {
+      "entryIds": [
+        "33-acetyl-l-carnitine-alcar",
+        "83-methylene-blue-usp-grade"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Methylene Blue (USP-grade) references Acetyl-L-Carnitine (ALCAR)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-34-creatine-monohydrate-83-methylene-blue-usp-grade",
+    "appliesTo": {
+      "entryIds": [
+        "34-creatine-monohydrate",
+        "83-methylene-blue-usp-grade"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Methylene Blue (USP-grade) references Creatine Monohydrate).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-79-nmn-nicotinamide-mononucleotide-84-shilajit",
+    "appliesTo": {
+      "entryIds": [
+        "79-nmn-nicotinamide-mononucleotide",
+        "84-shilajit"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Shilajit references NMN (Nicotinamide Mononucleotide)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-16-ashwagandha-ksm-66-or-sensoril-84-shilajit",
+    "appliesTo": {
+      "entryIds": [
+        "16-ashwagandha-ksm-66-or-sensoril",
+        "84-shilajit"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Shilajit references Ashwagandha (KSM-66 or Sensoril)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-103-red-nir-light-therapy-photobiomodulation-84-shilajit",
+    "appliesTo": {
+      "entryIds": [
+        "103-red-nir-light-therapy-photobiomodulation",
+        "84-shilajit"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Shilajit references Red/NIR Light Therapy (Photobiomodulation)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-81-coq10-ubiquinol-85-d-ribose",
+    "appliesTo": {
+      "entryIds": [
+        "81-coq10-ubiquinol",
+        "85-d-ribose"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (D-Ribose references CoQ10 (Ubiquinol)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-33-acetyl-l-carnitine-alcar-85-d-ribose",
+    "appliesTo": {
+      "entryIds": [
+        "33-acetyl-l-carnitine-alcar",
+        "85-d-ribose"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (D-Ribose references Acetyl-L-Carnitine (ALCAR)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-63-magnesium-l-threonate-magtein-85-d-ribose",
+    "appliesTo": {
+      "entryIds": [
+        "63-magnesium-l-threonate-magtein",
+        "85-d-ribose"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (D-Ribose references Magnesium L-Threonate (Magtein®)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-31-l-theanine-86-phenibut",
+    "appliesTo": {
+      "entryIds": [
+        "31-l-theanine",
+        "86-phenibut"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Phenibut references L-Theanine).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-63-magnesium-l-threonate-magtein-86-phenibut",
+    "appliesTo": {
+      "entryIds": [
+        "63-magnesium-l-threonate-magtein",
+        "86-phenibut"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Phenibut references Magnesium L-Threonate (Magtein®)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-40-caffeine-86-phenibut",
+    "appliesTo": {
+      "entryIds": [
+        "40-caffeine",
+        "86-phenibut"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Phenibut references Caffeine).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-16-ashwagandha-ksm-66-or-sensoril-87-magnolia-bark-honokiol-magnolol",
+    "appliesTo": {
+      "entryIds": [
+        "16-ashwagandha-ksm-66-or-sensoril",
+        "87-magnolia-bark-honokiol-magnolol"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Magnolia Bark (Honokiol + Magnolol) references Ashwagandha (KSM-66 or Sensoril)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-87-magnolia-bark-honokiol-magnolol-88-lemon-balm-melissa-officinalis",
+    "appliesTo": {
+      "entryIds": [
+        "87-magnolia-bark-honokiol-magnolol",
+        "88-lemon-balm-melissa-officinalis"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Magnolia Bark (Honokiol + Magnolol) references Lemon Balm (Melissa officinalis)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-31-l-theanine-87-magnolia-bark-honokiol-magnolol",
+    "appliesTo": {
+      "entryIds": [
+        "31-l-theanine",
+        "87-magnolia-bark-honokiol-magnolol"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Magnolia Bark (Honokiol + Magnolol) references L-Theanine).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-63-magnesium-l-threonate-magtein-87-magnolia-bark-honokiol-magnolol",
+    "appliesTo": {
+      "entryIds": [
+        "63-magnesium-l-threonate-magtein",
+        "87-magnolia-bark-honokiol-magnolol"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Magnolia Bark (Honokiol + Magnolol) references Magnesium L-Threonate (Magtein®)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-87-magnolia-bark-honokiol-magnolol-89-apigenin",
+    "appliesTo": {
+      "entryIds": [
+        "87-magnolia-bark-honokiol-magnolol",
+        "89-apigenin"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Magnolia Bark (Honokiol + Magnolol) references Apigenin).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-16-ashwagandha-ksm-66-or-sensoril-88-lemon-balm-melissa-officinalis",
+    "appliesTo": {
+      "entryIds": [
+        "16-ashwagandha-ksm-66-or-sensoril",
+        "88-lemon-balm-melissa-officinalis"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Lemon Balm (Melissa officinalis) references Ashwagandha (KSM-66 or Sensoril)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-31-l-theanine-88-lemon-balm-melissa-officinalis",
+    "appliesTo": {
+      "entryIds": [
+        "31-l-theanine",
+        "88-lemon-balm-melissa-officinalis"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Lemon Balm (Melissa officinalis) references L-Theanine).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-31-l-theanine-89-apigenin",
+    "appliesTo": {
+      "entryIds": [
+        "31-l-theanine",
+        "89-apigenin"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Apigenin references L-Theanine).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-31-l-theanine-90-kava-piper-methysticum",
+    "appliesTo": {
+      "entryIds": [
+        "31-l-theanine",
+        "90-kava-piper-methysticum"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Kava (Piper methysticum) references L-Theanine).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-87-magnolia-bark-honokiol-magnolol-90-kava-piper-methysticum",
+    "appliesTo": {
+      "entryIds": [
+        "87-magnolia-bark-honokiol-magnolol",
+        "90-kava-piper-methysticum"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Kava (Piper methysticum) references Magnolia Bark (Honokiol + Magnolol)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-91-dhea-92-pregnenolone",
+    "appliesTo": {
+      "entryIds": [
+        "91-dhea",
+        "92-pregnenolone"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (DHEA references Pregnenolone).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-59-vitamin-d3-cholecalciferol-91-dhea",
+    "appliesTo": {
+      "entryIds": [
+        "59-vitamin-d3-cholecalciferol",
+        "91-dhea"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (DHEA references Vitamin D3 (Cholecalciferol)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-65-zinc-picolinate-or-carnosine-91-dhea",
+    "appliesTo": {
+      "entryIds": [
+        "65-zinc-picolinate-or-carnosine",
+        "91-dhea"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (DHEA references Zinc (Picolinate or Carnosine)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-106-aerobic-exercise-91-dhea",
+    "appliesTo": {
+      "entryIds": [
+        "106-aerobic-exercise",
+        "91-dhea"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (DHEA references Aerobic Exercise).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-59-vitamin-d3-cholecalciferol-92-pregnenolone",
+    "appliesTo": {
+      "entryIds": [
+        "59-vitamin-d3-cholecalciferol",
+        "92-pregnenolone"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Pregnenolone references Vitamin D3 (Cholecalciferol)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-69-omega-3-dha-epa-92-pregnenolone",
+    "appliesTo": {
+      "entryIds": [
+        "69-omega-3-dha-epa",
+        "92-pregnenolone"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Pregnenolone references Omega-3 (DHA + EPA)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-64-magnesium-glycinate-93-melatonin-microdose",
+    "appliesTo": {
+      "entryIds": [
+        "64-magnesium-glycinate",
+        "93-melatonin-microdose"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Melatonin (Microdose) references Magnesium Glycinate).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-37-glycine-93-melatonin-microdose",
+    "appliesTo": {
+      "entryIds": [
+        "37-glycine",
+        "93-melatonin-microdose"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Melatonin (Microdose) references Glycine).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-89-apigenin-93-melatonin-microdose",
+    "appliesTo": {
+      "entryIds": [
+        "89-apigenin",
+        "93-melatonin-microdose"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Melatonin (Microdose) references Apigenin).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-31-l-theanine-93-melatonin-microdose",
+    "appliesTo": {
+      "entryIds": [
+        "31-l-theanine",
+        "93-melatonin-microdose"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Melatonin (Microdose) references L-Theanine).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-103-red-nir-light-therapy-photobiomodulation-93-melatonin-microdose",
+    "appliesTo": {
+      "entryIds": [
+        "103-red-nir-light-therapy-photobiomodulation",
+        "93-melatonin-microdose"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Melatonin (Microdose) references Red/NIR Light Therapy (Photobiomodulation)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-94-psychobiotics-targeted-probiotic-strains-96-prebiotics-gos-fos-inulin-resistant-starch",
+    "appliesTo": {
+      "entryIds": [
+        "94-psychobiotics-targeted-probiotic-strains",
+        "96-prebiotics-gos-fos-inulin-resistant-starch"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Psychobiotics (targeted probiotic strains) references Prebiotics (GOS, FOS, Inulin, Resistant Starch)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-69-omega-3-dha-epa-94-psychobiotics-targeted-probiotic-strains",
+    "appliesTo": {
+      "entryIds": [
+        "69-omega-3-dha-epa",
+        "94-psychobiotics-targeted-probiotic-strains"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Psychobiotics (targeted probiotic strains) references Omega-3 (DHA + EPA)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-95-butyrate-sodium-tributyrin-96-prebiotics-gos-fos-inulin-resistant-starch",
+    "appliesTo": {
+      "entryIds": [
+        "95-butyrate-sodium-tributyrin",
+        "96-prebiotics-gos-fos-inulin-resistant-starch"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Butyrate (Sodium/Tributyrin) references Prebiotics (GOS, FOS, Inulin, Resistant Starch)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-36-n-acetyl-cysteine-nac-95-butyrate-sodium-tributyrin",
+    "appliesTo": {
+      "entryIds": [
+        "36-n-acetyl-cysteine-nac",
+        "95-butyrate-sodium-tributyrin"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Butyrate (Sodium/Tributyrin) references N-Acetyl Cysteine (NAC)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-69-omega-3-dha-epa-95-butyrate-sodium-tributyrin",
+    "appliesTo": {
+      "entryIds": [
+        "69-omega-3-dha-epa",
+        "95-butyrate-sodium-tributyrin"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Butyrate (Sodium/Tributyrin) references Omega-3 (DHA + EPA)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-97-ginkgo-biloba-99-vinpocetine",
+    "appliesTo": {
+      "entryIds": [
+        "97-ginkgo-biloba",
+        "99-vinpocetine"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Ginkgo Biloba references Vinpocetine).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-18-bacopa-monnieri-97-ginkgo-biloba",
+    "appliesTo": {
+      "entryIds": [
+        "18-bacopa-monnieri",
+        "97-ginkgo-biloba"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Ginkgo Biloba references Bacopa Monnieri).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-69-omega-3-dha-epa-97-ginkgo-biloba",
+    "appliesTo": {
+      "entryIds": [
+        "69-omega-3-dha-epa",
+        "97-ginkgo-biloba"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Ginkgo Biloba references Omega-3 (DHA + EPA)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-50-lion-s-mane-hericium-erinaceus-98-gotu-kola-centella-asiatica",
+    "appliesTo": {
+      "entryIds": [
+        "50-lion-s-mane-hericium-erinaceus",
+        "98-gotu-kola-centella-asiatica"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Gotu Kola (Centella asiatica) references Lion's Mane (Hericium erinaceus)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-16-ashwagandha-ksm-66-or-sensoril-98-gotu-kola-centella-asiatica",
+    "appliesTo": {
+      "entryIds": [
+        "16-ashwagandha-ksm-66-or-sensoril",
+        "98-gotu-kola-centella-asiatica"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Gotu Kola (Centella asiatica) references Ashwagandha (KSM-66 or Sensoril)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-33-acetyl-l-carnitine-alcar-99-vinpocetine",
+    "appliesTo": {
+      "entryIds": [
+        "33-acetyl-l-carnitine-alcar",
+        "99-vinpocetine"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Vinpocetine references Acetyl-L-Carnitine (ALCAR)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-81-coq10-ubiquinol-99-vinpocetine",
+    "appliesTo": {
+      "entryIds": [
+        "81-coq10-ubiquinol",
+        "99-vinpocetine"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Vinpocetine references CoQ10 (Ubiquinol)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-100-black-seed-oil-nigella-sativa-73-curcumin",
+    "appliesTo": {
+      "entryIds": [
+        "100-black-seed-oil-nigella-sativa",
+        "73-curcumin"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Black Seed Oil (Nigella sativa) references Curcumin).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-100-black-seed-oil-nigella-sativa-69-omega-3-dha-epa",
+    "appliesTo": {
+      "entryIds": [
+        "100-black-seed-oil-nigella-sativa",
+        "69-omega-3-dha-epa"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Black Seed Oil (Nigella sativa) references Omega-3 (DHA + EPA)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-100-black-seed-oil-nigella-sativa-50-lion-s-mane-hericium-erinaceus",
+    "appliesTo": {
+      "entryIds": [
+        "100-black-seed-oil-nigella-sativa",
+        "50-lion-s-mane-hericium-erinaceus"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Black Seed Oil (Nigella sativa) references Lion's Mane (Hericium erinaceus)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-100-black-seed-oil-nigella-sativa-59-vitamin-d3-cholecalciferol",
+    "appliesTo": {
+      "entryIds": [
+        "100-black-seed-oil-nigella-sativa",
+        "59-vitamin-d3-cholecalciferol"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Black Seed Oil (Nigella sativa) references Vitamin D3 (Cholecalciferol)).",
+    "severity": "low",
+    "evidence": "moderate"
+  },
+  {
+    "id": "synergy-101-cold-exposure-108-breathwork-multiple-protocols",
+    "appliesTo": {
+      "entryIds": [
+        "101-cold-exposure",
+        "108-breathwork-multiple-protocols"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Cold Exposure references Breathwork (Multiple Protocols)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-101-cold-exposure-102-sauna-heat-therapy",
+    "appliesTo": {
+      "entryIds": [
+        "101-cold-exposure",
+        "102-sauna-heat-therapy"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Cold Exposure references Sauna / Heat Therapy).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-101-cold-exposure-40-caffeine",
+    "appliesTo": {
+      "entryIds": [
+        "101-cold-exposure",
+        "40-caffeine"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Cold Exposure references Caffeine).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-102-sauna-heat-therapy-79-nmn-nicotinamide-mononucleotide",
+    "appliesTo": {
+      "entryIds": [
+        "102-sauna-heat-therapy",
+        "79-nmn-nicotinamide-mononucleotide"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Sauna / Heat Therapy references NMN (Nicotinamide Mononucleotide)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-103-red-nir-light-therapy-photobiomodulation-81-coq10-ubiquinol",
+    "appliesTo": {
+      "entryIds": [
+        "103-red-nir-light-therapy-photobiomodulation",
+        "81-coq10-ubiquinol"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Red/NIR Light Therapy (Photobiomodulation) references CoQ10 (Ubiquinol)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-103-red-nir-light-therapy-photobiomodulation-79-nmn-nicotinamide-mononucleotide",
+    "appliesTo": {
+      "entryIds": [
+        "103-red-nir-light-therapy-photobiomodulation",
+        "79-nmn-nicotinamide-mononucleotide"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Red/NIR Light Therapy (Photobiomodulation) references NMN (Nicotinamide Mononucleotide)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-103-red-nir-light-therapy-photobiomodulation-75-sulforaphane",
+    "appliesTo": {
+      "entryIds": [
+        "103-red-nir-light-therapy-photobiomodulation",
+        "75-sulforaphane"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Red/NIR Light Therapy (Photobiomodulation) references Sulforaphane).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-101-cold-exposure-103-red-nir-light-therapy-photobiomodulation",
+    "appliesTo": {
+      "entryIds": [
+        "101-cold-exposure",
+        "103-red-nir-light-therapy-photobiomodulation"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Red/NIR Light Therapy (Photobiomodulation) references Cold Exposure).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-105-neurofeedback-31-l-theanine",
+    "appliesTo": {
+      "entryIds": [
+        "105-neurofeedback",
+        "31-l-theanine"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Neurofeedback references L-Theanine).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-105-neurofeedback-50-lion-s-mane-hericium-erinaceus",
+    "appliesTo": {
+      "entryIds": [
+        "105-neurofeedback",
+        "50-lion-s-mane-hericium-erinaceus"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Neurofeedback references Lion's Mane (Hericium erinaceus)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-106-aerobic-exercise-69-omega-3-dha-epa",
+    "appliesTo": {
+      "entryIds": [
+        "106-aerobic-exercise",
+        "69-omega-3-dha-epa"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Aerobic Exercise references Omega-3 (DHA + EPA)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-101-cold-exposure-106-aerobic-exercise",
+    "appliesTo": {
+      "entryIds": [
+        "101-cold-exposure",
+        "106-aerobic-exercise"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Aerobic Exercise references Cold Exposure).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-106-aerobic-exercise-50-lion-s-mane-hericium-erinaceus",
+    "appliesTo": {
+      "entryIds": [
+        "106-aerobic-exercise",
+        "50-lion-s-mane-hericium-erinaceus"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Aerobic Exercise references Lion's Mane (Hericium erinaceus)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-107-intermittent-fasting-16-8-or-omad-79-nmn-nicotinamide-mononucleotide",
+    "appliesTo": {
+      "entryIds": [
+        "107-intermittent-fasting-16-8-or-omad",
+        "79-nmn-nicotinamide-mononucleotide"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Intermittent Fasting (16:8 or OMAD) references NMN (Nicotinamide Mononucleotide)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-101-cold-exposure-107-intermittent-fasting-16-8-or-omad",
+    "appliesTo": {
+      "entryIds": [
+        "101-cold-exposure",
+        "107-intermittent-fasting-16-8-or-omad"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Intermittent Fasting (16:8 or OMAD) references Cold Exposure).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-102-sauna-heat-therapy-108-breathwork-multiple-protocols",
+    "appliesTo": {
+      "entryIds": [
+        "102-sauna-heat-therapy",
+        "108-breathwork-multiple-protocols"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Breathwork (Multiple Protocols) references Sauna / Heat Therapy).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-109-sleep-optimization-64-magnesium-glycinate",
+    "appliesTo": {
+      "entryIds": [
+        "109-sleep-optimization",
+        "64-magnesium-glycinate"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Sleep Optimization references Magnesium Glycinate).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-109-sleep-optimization-63-magnesium-l-threonate-magtein",
+    "appliesTo": {
+      "entryIds": [
+        "109-sleep-optimization",
+        "63-magnesium-l-threonate-magtein"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Sleep Optimization references Magnesium L-Threonate (Magtein®)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-109-sleep-optimization-37-glycine",
+    "appliesTo": {
+      "entryIds": [
+        "109-sleep-optimization",
+        "37-glycine"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Sleep Optimization references Glycine).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-109-sleep-optimization-89-apigenin",
+    "appliesTo": {
+      "entryIds": [
+        "109-sleep-optimization",
+        "89-apigenin"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Sleep Optimization references Apigenin).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "synergy-109-sleep-optimization-93-melatonin-microdose",
+    "appliesTo": {
+      "entryIds": [
+        "109-sleep-optimization",
+        "93-melatonin-microdose"
+      ]
+    },
+    "result": "synergy",
+    "reason": "Source data lists these entries as a potentially complementary stack (Sleep Optimization references Melatonin (Microdose)).",
+    "severity": "low",
+    "evidence": "strong"
+  },
+  {
+    "id": "rule-tag-serotonergic-maoi",
+    "appliesTo": {
+      "tagPairs": [
+        "serotonergic",
+        "mao_inhibitor"
+      ]
+    },
+    "result": "avoid",
+    "reason": "Potential serotonin overload risk when serotonergic compounds are combined with MAO-inhibiting compounds.",
+    "severity": "high",
+    "evidence": "moderate"
+  },
+  {
+    "id": "rule-tag-stimulant-stimulant",
+    "appliesTo": {
+      "tagPairs": [
+        "stimulatory",
+        "stimulatory"
+      ]
+    },
+    "result": "caution",
+    "reason": "Stacking multiple stimulating compounds can increase anxiety, blood pressure, sleep disruption, and tolerance pressure.",
+    "severity": "medium",
+    "evidence": "moderate"
+  },
+  {
+    "id": "rule-tag-blood-thinner-blood-thinner",
+    "appliesTo": {
+      "tagPairs": [
+        "blood_thinner_risk",
+        "blood_thinner_risk"
+      ]
+    },
+    "result": "caution",
+    "reason": "Combining agents with blood-thinner interaction warnings can increase bleeding risk.",
+    "severity": "high",
+    "evidence": "moderate"
+  },
+  {
+    "id": "rule-tag-cholinergic-cholinergic",
+    "appliesTo": {
+      "tagPairs": [
+        "cholinergic",
+        "cholinergic"
+      ]
+    },
+    "result": "caution",
+    "reason": "Concurrent high-cholinergic compounds may increase headaches, mood changes, and cholinergic side effects.",
+    "severity": "medium",
+    "evidence": "limited"
+  },
+  {
+    "id": "rule-tag-gabaergic-gabaergic",
+    "appliesTo": {
+      "tagPairs": [
+        "gabaergic",
+        "gabaergic"
+      ]
+    },
+    "result": "caution",
+    "reason": "Combining multiple GABAergic compounds can increase sedation and cognitive dulling in sensitive users.",
+    "severity": "medium",
+    "evidence": "limited"
+  },
+  {
+    "id": "rule-tag-psychedelic-psychedelic",
+    "appliesTo": {
+      "tagPairs": [
+        "psychedelic",
+        "psychedelic"
+      ]
+    },
+    "result": "caution",
+    "reason": "Psychedelic combinations have elevated unpredictability and should not be combined without specialist clinical oversight.",
+    "severity": "high",
+    "evidence": "limited"
+  },
+  {
+    "id": "rule-category-stimulants-within-category",
+    "appliesTo": {
+      "categoryIds": [
+        "category-6-stimulants-and-eugeroics"
+      ]
+    },
+    "result": "caution",
+    "reason": "Combining multiple entries from the stimulant/eugeroic category increases overstimulation risk.",
+    "severity": "medium",
+    "evidence": "moderate"
+  }
+]
